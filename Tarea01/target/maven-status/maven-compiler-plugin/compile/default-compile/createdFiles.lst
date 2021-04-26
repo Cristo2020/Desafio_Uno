@@ -1,0 +1,5 @@
+com/previred/ws/rest/vo/VOResult.class
+com/previred/ws/rest/vo/VOResultFinal.class
+com/previred/ws/rest/service/TareaService.class
+com/previred/ws/rest/service/TareaClient.class
+com/previred/ws/rest/util/Util.class
